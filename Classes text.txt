@@ -1,0 +1,9 @@
+panel pricing-table
+pricing-plan
+pricing-img
+pricing-header
+pricing-features
+pricing-features-item
+pricing-price
+pricing-button
+pricing-button is-featured
